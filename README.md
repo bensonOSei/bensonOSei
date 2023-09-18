@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Apps(Backend/Frontend)**
 
-- 🤝 I’m looking for help with **Mobile/Web Apps | Backend APIs | Microservice Arch.**
+- 🤝 I’m looking for help with **Web Apps | Backend APIs | Microservice Arch.**
 
 - 📫 How to reach me **@bensonOSei**
 
