@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development**
 
-- 👯 I’m looking to collaborate on **Mobile/Web Apps(Backend/Frontend)**
+- 👯 I’m looking to collaborate on **Web Apps(Backend/Frontend)**
 
 - 🤝 I’m looking for help with **Mobile/Web Apps | Backend APIs | Microservice Arch.**
 
