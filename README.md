@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benson Osei-Mensah</h1>
-<h3 align="center">I'm a full stack spider creating amazing web tools</h3>
+<h3 align="center">I'm a spider creating amazing web tools</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bensonOSei&label=Profile%20views&color=0e75b6&style=flat" alt="bensonoseimensah" /> </p>
 
