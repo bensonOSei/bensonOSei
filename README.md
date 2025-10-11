@@ -7,18 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/webdevbenson" target="blank"><img src="https://img.shields.io/twitter/follow/webdevbenson?logo=twitter&style=for-the-badge" alt="bensonosei" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile App Development**
-
-- 👯 I’m looking to collaborate on **Web Apps(Backend/Frontend)**
-
-- 🤝 I’m looking for help with **Web Apps | Backend APIs | Microservice Arch.**
-
-- 📫 How to reach me **@bensonOSei**
-
-<!-- ### Blogs posts -->
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
