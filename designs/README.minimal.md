@@ -28,6 +28,6 @@ FastAPI · Node · React · Docker · Caddy · Postgres · MongoDB
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/bensonoseimensah)
 [![X](https://img.shields.io/badge/@webdevbenson-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/webdevbenson)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@bensonoseimensah)
+[![Blog](https://img.shields.io/badge/Blog-2962FF?style=flat-square&logo=hashnode&logoColor=white)](https://blog.bensonoseimensah.com)
 
 <sub>Building since 2019. Currently most interested in developer tooling and the boring infrastructure that makes it reliable.</sub>
