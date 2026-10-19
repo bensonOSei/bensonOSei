@@ -48,12 +48,12 @@
   Self-hosted so this page stops rotting every time someone else stops paying.
 -->
 
-<img src="https://stats.crudxpert.com/api?username=bensonOSei&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9&count_private=true&include_all_commits=true" alt="GitHub stats" width="49%" />
-<img src="https://stats.crudxpert.com/api/top-langs?username=bensonOSei&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&langs_count=8&hide=html,scss,css,blade" alt="Most used languages" width="49%" />
+<img src="https://stats.crudxpert.com/api?username=bensonOSei&show_icons=true&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00ADD8&icon_color=00ADD8&text_color=C9D1D9&count_private=true&include_all_commits=true&v=2" alt="GitHub stats" width="49%" />
+<img src="https://stats.crudxpert.com/api/top-langs?username=bensonOSei&layout=compact&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=00ADD8&text_color=C9D1D9&langs_count=8&hide=html,scss,css,blade&v=2" alt="Most used languages" width="49%" />
 
 <br><br>
 
-<img src="https://streak.crudxpert.com/?user=bensonOSei&theme=dark&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681" alt="Contribution streak" width="80%" />
+<img src="https://streak.crudxpert.com/?user=bensonOSei&theme=dark&hide_border=true&background=0D1117&stroke=00ADD8&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8&sideNums=C9D1D9&sideLabels=8B949E&dates=6E7681&v=2" alt="Contribution streak" width="80%" />
 
 <br><br>
 
